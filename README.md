@@ -12,6 +12,9 @@ Currently deepening my skills in **HTML5**, **CSS3**, and **Vanilla JavaScript**
 
 ---
 
+<p align="center">
+  <img src="profile.png" alt="Miguel Ángel - minyorange" width="150" style="border-radius: 50%;" />
+</p>
 
 
 ## 🛠️ Technologies & Tools
