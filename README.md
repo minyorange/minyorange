@@ -8,6 +8,7 @@ Currently deepening my skills in **HTML5**, **CSS3**, and **Vanilla JavaScript**
 [![switchsound](https://img.shields.io/badge/switchsound-%F0%9F%8E%A7%20media%20player-blueviolet?style=for-the-badge)](https://github.com/minyorange/switchsound)
 [![build in public](https://img.shields.io/badge/build--in--public-%23buildinpublic-blue?style=for-the-badge)](https://x.com/minyorange)
 [![Under Development](https://img.shields.io/badge/status-in%20progress-yellow?style=for-the-badge)](https://github.com/minyorange/switchsound)
+[![Follow on X](https://img.shields.io/badge/X-@minyorange-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/minyorange)
 
 ---
 
@@ -23,4 +24,3 @@ Currently deepening my skills in **HTML5**, **CSS3**, and **Vanilla JavaScript**
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minyorange&show_icons=true&theme=radical)
-
