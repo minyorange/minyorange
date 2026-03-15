@@ -5,9 +5,6 @@
 I'm passionate about creating clean, modern, and user-focused web interfaces.  
 Currently deepening my skills in **HTML5**, **CSS3**, and **Vanilla JavaScript**, while also building [`switchsound`](https://github.com/minyorange/switchsound) — a media player that blends music and video in one seamless flow.
 
-[![switchsound](https://img.shields.io/badge/switchsound-%F0%9F%8E%A7%20media%20player-blueviolet?style=for-the-badge)](https://github.com/minyorange/switchsound)
-[![build in public](https://img.shields.io/badge/build--in--public-%23buildinpublic-blue?style=for-the-badge)](https://x.com/minyorange)
-[![Under Development](https://img.shields.io/badge/status-in%20progress-yellow?style=for-the-badge)](https://github.com/minyorange/switchsound)
 [![Follow on X](https://img.shields.io/badge/X-@minyorange-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/minyorange)
 
 ---
