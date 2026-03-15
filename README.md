@@ -1,40 +1,55 @@
 # 👋 Hi, I'm Miguel Ángel (@minyorange)
 
-## 💻 Aspiring Frontend Developer | Building `switchsound`
+## 🖥️ Técnico ASIR | Desarrollador Android en formación | Kotlin · Android Studio · Redes & Sistemas
 
-I'm passionate about creating clean, modern, and user-focused web interfaces.  
-Currently deepening my skills in **HTML5**, **CSS3**, and **Vanilla JavaScript**, while also building [`switchsound`](https://github.com/minyorange/switchsound) — a media player that blends music and video in one seamless flow.
+Técnico Superior en **Administración de Sistemas Informáticos en Red (ASIR)** con sólida base en administración de servidores Linux/Windows, virtualización, redes TCP/IP y scripting.
 
-[![Follow on X](https://img.shields.io/badge/X-@minyorange-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/minyorange)
+Actualmente amplío mi perfil hacia el **desarrollo de aplicaciones móviles Android**, formándome intensivamente en **Kotlin** y **Android Studio**.
+
+Mi combinación de conocimientos en sistemas e infraestructura junto con el desarrollo móvil me permite entender el ciclo completo de una aplicación: desde el backend y la red hasta la interfaz de usuario.
 
 ---
 
-<p align="center">
-  <img src="profile.png" alt="Miguel Ángel - minyorange" width="1024" style="border-radius: 50%;" />
-</p>
+## 🛠️ Tecnologías & Herramientas
 
+### 📱 Desarrollo Móvil
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?logo=materialdesign&logoColor=white)
 
-## 🛠️ Technologies & Tools
+### 🖥️ Sistemas & Infraestructura
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnL3N2ZyI+PHJlY3Qgd2lkdGg9IjMwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDAwIiByeD0iNSIvPjwvc3ZnPg==)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white)
-![YouTube API](https://img.shields.io/badge/YouTube%20API-FF0000?logo=youtube&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### 🌐 Redes
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005C97?logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FF6B35?logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-4CAF50?logoColor=white)
+
+### ⌨️ Scripting & Herramientas
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![LocalStorage](https://img.shields.io/badge/LocalStorage-BDBDBD?logo=windowsterminal&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 
----
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minyorange&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minyorange&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minyorange&layout=compact&theme=tokyonight)
 
-## ☕  Support me
+---
 
- 🙌 If you find this project helpful, you can support it with a PayPal donation:
+## 📫 Contacto
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=T3EXU5CN48Z32)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Angel%20Ca%C3%B1ada-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelca%C3%B1ada)
+[![Email](https://img.shields.io/badge/Email-miguelcanadaoficial%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:miguelcanadaoficial@gmail.com)
+
+---
+
+> 🔍 Abierto a oportunidades en **administración de sistemas**, **desarrollo Android** o perfiles **híbridos tech**.
